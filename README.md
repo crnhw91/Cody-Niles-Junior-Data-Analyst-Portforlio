@@ -46,5 +46,5 @@ Here is a list of certificates I've earned
 
 ## Contacts
 
-E-mail: crnhw91@gmail.com
+E-mail: crnhw91@gmail.com  <br>
 LinkedIn:
