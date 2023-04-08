@@ -42,7 +42,8 @@ In this section I will list data analytics projects, and practice excerises I've
 ## Certificates
 Here is a list of certificates I've earned
 
-* **Google Data Analytics Professional Certificate** (March 2023)(Coursera - Google) [Coursera Google Certificate.pdf](https://github.com/crnhw91/Cody-Niles-Junior-Data-Analyst-Portforlio/files/11069847/Coursera.Google.Certificate.pdf)
+* **Google Data Analytics Professional Certificate** (March 2023)(Coursera - Google) [Coursera Google Certificate.pdf](https://github.com/crnhw91/Cody-Niles-Junior-Data-Analyst-Portforlio/files/11069847/Coursera.Google.Certificate.pdf) <br>
+* **Codecademy Analyze Data with SQL Skill Path** (April 2023)(Codecademy) [Codecademy SQL Certificate.pdf](https://github.com/crnhw91/Cody-Niles-Junior-Data-Analyst-Portforlio/files/11183658/Codecademy.SQL.Certificate.pdf)
 
 ## Contacts
 
