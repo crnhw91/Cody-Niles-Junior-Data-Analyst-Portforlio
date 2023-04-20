@@ -35,9 +35,9 @@ In this section I will list data analytics projects, and practice excerises I've
 **Technology:** Tableau
 
 ### Learning SQL
-**Description:** SQL queries for tasks from [Hanker Rank](https://www.hackerrank.com/domains/sql)  <br>
-**Repository:** Check the repository having 35+ SQL queries ---> [Go to Repository](https://github.com/crnhw91/Learning-SQL.git)  <br>
-**Status:** Course is still in progress.
+**Description:** SQL queries for tasks from [Hanker Rank](https://www.hackerrank.com/domains/sql) and Codecademy  <br>
+**Repository:** Check the repository having 135+ SQL queries ---> [Go to Repository](https://github.com/crnhw91/Learning-SQL.git)  <br>
+**Status:** Some courses is still in progress.
 
 ## Certificates
 Here is a list of certificates I've earned
