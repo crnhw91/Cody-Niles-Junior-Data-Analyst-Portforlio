@@ -3,7 +3,7 @@
 ## About
 Hi, I'm Cody! I graduated the from Missouri University of Science and Technology with a Bachelors of Science in Engineering Management with an emphasis on Industrial engineering. I have 4 years of experience in the construction industry. I worked for Herzog Corporation making high speed commuter rail in Fort Worth, Texas and in Florida. The last 2 years I have been working in South Korea as an english teacher. Currently I am trying to change careers and become a Junior Data Analyst. 
 
-Here is my resume: [Cody Niles Resume 042023V2.docx](https://github.com/crnhw91/Cody-Niles-Junior-Data-Analyst-Portforlio/files/11226290/Cody.Niles.Resume.042023V2.docx)  <br>
+Here is my resume: [Cody Niles Resume T 042023.docx](https://github.com/crnhw91/Cody-Niles-Junior-Data-Analyst-Portforlio/files/11288892/Cody.Niles.Resume.T.042023.docx)  <br>
 
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics.
 
@@ -49,4 +49,3 @@ Here is a list of certificates I've earned
 
 E-mail: crnhw91@gmail.com  <br>
 LinkedIn: [Link](https://www.linkedin.com/in/crnhw91/) linkedin.com/in/crnhw91
-
